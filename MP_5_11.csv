@@ -1,0 +1,623 @@
+ID;Name;Event;Event Details;Year
+1;Paulo Albuquerque;Promotion;1. Graduated;2006
+2;Paulo Albuquerque;Promotion;2. Assistant Prof;2006
+3;Paulo Albuquerque;Promotion;3. Associate Prof;2012
+4;Paulo Albuquerque;Joined European Business School;INSEAD;2014
+5;Paulo Albuquerque;Published;MgmtS;2007
+6;Paulo Albuquerque;Published;MktS;2009
+7;Paulo Albuquerque;Published;MktS;2011
+8;Paulo Albuquerque;Published;JMR;2011
+9;Paulo Albuquerque;Published;MS;2012
+10;Paulo Albuquerque;Published;MS;2012
+11;Simona Botti;Promotion;1. Graduated;2004
+12;Simona Botti;Promotion;2. Assistant Prof;2004
+13;Simona Botti;Joined European Business School;London Business School;2007
+14;Simona Botti;Promotion;3. Associate Prof;2012
+15;Simona Botti;Promotion;4. Prof;2018
+16;Simona Botti;Published;JCR;2006
+17;Simona Botti;Published;JCR;2009
+18;Simona Botti;Published;JCR;2011
+19;Simona Botti;Published;JCR;2013
+20;Simona Botti;Published;JMR;2017
+21;Simona Botti;Published;JCR;2018
+22;Simona Botti;Promotion;1. Graduated;1996
+23;Rajesh Chandy;Promotion;1.5 Visting Assistant Prof.;1996
+24;Rajesh Chandy;Promotion;2. Assistant Prof;1997
+25;Rajesh Chandy;Promotion;3. Associate Prof;2004
+26;Rajesh Chandy;Promotion;4. Prof;2007
+27;Rajesh Chandy;Joined European Business School;London Business School;2008
+28;Rajesh Chandy;Published;JMR;1998
+29;Rajesh Chandy;Published;JMR;1999
+30;Rajesh Chandy;Published;JMR;2000
+31;Rajesh Chandy;Published;Jmkting;2000
+32;Rajesh Chandy;Published;JMR;2001
+33;Rajesh Chandy;Published;JMR;2003
+34;Rajesh Chandy;Published;Jmkting;2003
+35;Rajesh Chandy;Published;Jmkting;2005
+36;Rajesh Chandy;Published;MS;2005
+37;Rajesh Chandy;Published;JMR;2006
+38;Rajesh Chandy;Published;JMR;2007
+39;Rajesh Chandy;Published;Jmkting;2007
+40;Rajesh Chandy;Published;Jmkting;2007
+41;Rajesh Chandy;Published;Jmkting;2008
+42;Rajesh Chandy;Published;Jmkting;2008
+43;Rajesh Chandy;Published;Jmkting;2009
+44;Rajesh Chandy;Published;JMR;2010
+45;Rajesh Chandy;Published;Jmkting;2011
+46;Rajesh Chandy;Published;JMR;2014
+47;Rajesh Chandy;Published;Jmkting;2015
+48;Rajesh Chandy;Published;MS;2017
+49;Reinhard Angelmar;Promotion;1. Graduated;1968
+50;Reinhard Angelmar;Promotion;2. Assistant Prof;1974
+51;Reinhard Angelmar;Joined European Business School;INSEAD;1977
+52;Reinhard Angelmar;Promotion;4. Prof;1989
+53;Reinhard Angelmar;Promotion;5. Emeritus Prof.;2011
+54;Reinhard Angelmar;Published;Jmkting;1972
+55;Reinhard Angelmar;Published;JMR;1978
+56;Reinhard Angelmar;Published;Jmkting;1983
+57;Abhishek Borah;Promotion;1. Graduated;2013
+58;Abhishek Borah;Promotion;2. Assistant Prof;2013
+59;Abhishek Borah;Joined European Business School;INSEAD;2018
+60;Abhishek Borah;Published;MktS;2014
+61;Abhishek Borah;Published;JMR;2014
+62;Abhishek Borah;Published;Jmkting;2017
+63;Ziv Carmon;Promotion;1. Graduated;1993
+64;Ziv Carmon;Promotion;2. Assistant Prof;1993
+65;Ziv Carmon;Joined European Business School;INSEAD;2000
+66;Ziv Carmon;Promotion;2. Assistant Prof;2000
+67;Ziv Carmon;Promotion;4. Prof;2006
+68;Ziv Carmon;Promotion;5. Chaired Professor;2012
+69;Ziv Carmon;Promotion;5. Dean;2017
+70;Ziv Carmon;Published;MktS;2008
+71;Ziv Carmon;Published;JCR;2006
+72;Ziv Carmon;Published;JMR;2005
+73;Ziv Carmon;Published;JMR;2005
+74;Ziv Carmon;Published;JCR;2000
+75;Ziv Carmon;Published;MgmtS;1999
+76;Ziv Carmon;Published;MktS;1999
+77;Ziv Carmon;Published;MgmtS;1995
+78;Ziv Carmon;Published;MktS;1994
+79;Pierre Chandon;Promotion;1. Graduated;1998
+80;Pierre Chandon;Promotion;2. Assistant Prof;1998
+81;Pierre Chandon;Joined European Business School;London Business School;1998
+82;Pierre Chandon;Joined European Business School;INSEAD;1999
+83;Pierre Chandon;Promotion;3. Associate Prof;2007
+84;Pierre Chandon;Promotion;4. Prof;2010
+85;Pierre Chandon;Promotion;5. Chaired Professor;2012
+86;Pierre Chandon;Published;JMR;2016
+87;Pierre Chandon;Published;Jmkting;2013
+88;Pierre Chandon;Published;JCR;2011
+89;Pierre Chandon;Published;Jmkting;2009
+90;Pierre Chandon;Published;JCR;2007
+91;Pierre Chandon;Published;JMR;2007
+92;Pierre Chandon;Published;Jmkting;2006
+93;Pierre Chandon;Published;Jmkting;2005
+94;Pierre Chandon;Published;JCR;2004
+95;Pierre Chandon;Published;JMR;2002
+96;Pierre Chandon;Published;Jmkting;2000
+97;Amitava Chattopadhyay;Promotion;1. Graduated;1986
+98;Amitava Chattopadhyay;Promotion;2. Assistant Prof;1986
+99;Amitava Chattopadhyay;Promotion;2. Assistant Prof;1991
+100;Amitava Chattopadhyay;Joined European Business School;INSEAD;1999
+101;Amitava Chattopadhyay;Promotion;4. Prof;1999
+102;Amitava Chattopadhyay;Promotion;5. Chaired Professor;2008
+103;Amitava Chattopadhyay;Published;JCR;2015
+104;Amitava Chattopadhyay;Published;JCR;2014
+105;Amitava Chattopadhyay;Published;Jmkting;2011
+106;Amitava Chattopadhyay;Published;JCR;2010
+107;Amitava Chattopadhyay;Published;JCR;2009
+108;Amitava Chattopadhyay;Published;JMR;2007
+109;Amitava Chattopadhyay;Published;JCR;2007
+110;Amitava Chattopadhyay;Published;JCR;2006
+111;Amitava Chattopadhyay;Published;JCR;2005
+112;Amitava Chattopadhyay;Published;JMR;2004
+113;Amitava Chattopadhyay;Published;JMR;1999
+114;Amitava Chattopadhyay;Published;MktS;1998
+115;Amitava Chattopadhyay;Published;MgmtS;1997
+116;Amitava Chattopadhyay;Published;JMR;1992
+117;Amitava Chattopadhyay;Published;JCR;1992
+118;Amitava Chattopadhyay;Published;JMR;1990
+119;Amitava Chattopadhyay;Published;JMR;1987
+120;Amitava Chattopadhyay;Published;JMR;1986
+121;Amitava Chattopadhyay;Published;JMR;1985
+122;Amitava Chattopadhyay;Published;Jmkting;1985
+123;Markus Christen;Promotion;1. Graduated;1996
+124;Markus Christen;Joined European Business School;INSEAD;1996
+125;Markus Christen;Promotion;2. Assistant Prof;1996
+126;Markus Christen;Promotion;2. Assistant Prof;2005
+127;Markus Christen;Promotion;4. Prof;2017
+128;Markus Christen;Published;MgmtS;2005
+129;Markus Christen;Published;Jmkting;2006
+130;Markus Christen;Published;JMR;2007
+131;Markus Christen;Published;MgmtS;2009
+132;Markus Christen;Published;MgmtS;2009
+133;Markus Christen;Published;MktS;2008
+134;Markus Christen;Published;MktS;2003
+135;Markus Christen;Published;JMR;1997
+136;Marcel L. Corstjens;Promotion;1. Graduated;1978
+137;Marcel L. Corstjens;Joined European Business School;INSEAD;1978
+138;Marcel L. Corstjens;Promotion;2. Assistant Prof;1978
+139;Marcel L. Corstjens;Promotion;3. Associate Prof;1981
+140;Marcel L. Corstjens;Promotion;4. Prof;1985
+141;Marcel L. Corstjens;Promotion;5. Chaired Professor;1999
+142;Marcel L. Corstjens;Promotion;5. Emeritus Prof.;
+143;Marcel L. Corstjens;Published;MgmtS;1979
+144;Marcel L. Corstjens;Published;Jmkting;1980
+145;Marcel L. Corstjens;Published;MgmtS;1981
+146;Marcel L. Corstjens;Published;MgmtS;1982
+147;Marcel L. Corstjens;Published;MgmtS;1983
+148;Marcel L. Corstjens;Published;MktS;1983
+149;Marcel L. Corstjens;Published;Jmkting;1985
+150;Marcel L. Corstjens;Published;MgmtS;1989
+151;Marcel L. Corstjens;Published;MktS;1989
+152;Marcel L. Corstjens;Published;JMR;2000
+153;David Dubois;Promotion;1. Graduated;2011
+154;David Dubois;Promotion;2. Assistant Prof;2011
+155;David Dubois;Joined European Business School;INSEAD;2012
+156;David Dubois;Promotion;3. Associate Prof;2017
+157;David Dubois;Published;JMR;2017
+158;David Dubois;Published;JCR;2016
+159;David Dubois;Published;JCR;2012
+160;David Dubois;Published;JCR;2012
+161;David Dubois;Published;JMR;2011
+162;David Dubois;Published;JCR;2011
+163;Hubert Gatignon;Promotion;1. Graduated;1981
+164;Hubert Gatignon;Promotion;2. Assistant Prof;1981
+165;Hubert Gatignon;Promotion;3. Associate Prof;1988
+166;Hubert Gatignon;Promotion;4. Prof;1994
+167;Hubert Gatignon;Joined European Business School;INSEAD;1994
+168;Hubert Gatignon;Promotion;5. Chaired Professor;1996
+169;Hubert Gatignon;Promotion;5. Emeritus Prof.;
+170;Hubert Gatignon;Published;MktS;2005
+171;Hubert Gatignon;Published;MgmtS;2002
+172;Hubert Gatignon;Published;StrategicMgmtJ;1998
+173;Hubert Gatignon;Published;JMR;1997
+174;Hubert Gatignon;Published;MktS;1996
+175;Hubert Gatignon;Published;JMR;1995
+176;Hubert Gatignon;Published;Jmkting;1994
+177;Hubert Gatignon;Published;Jmkting;1990
+178;Hubert Gatignon;Published;MktS;1989
+179;Hubert Gatignon;Published;JMR;1989
+180;Hubert Gatignon;Published;Jmkting;1989
+181;Hubert Gatignon;Published;JMR;1988
+182;Hubert Gatignon;Published;JMR;1987
+183;Hubert Gatignon;Published;Jintl.Biz.Studies;1986
+184;Hubert Gatignon;Published;JMR;1986
+185;Hubert Gatignon;Published;Jmkting;1986
+186;Hubert Gatignon;Published;JCR;1985
+187;Hubert Gatignon;Published;MktS;1984
+188;Hubert Gatignon;Published;JMR;1984
+189;Hubert Gatignon;Published;JMR;1984
+190;Pavel Kireyev;Promotion;1. Graduated;2018
+191;Pavel Kireyev;Promotion;2. Assistant Prof;2018
+192;Pavel Kireyev;Joined European Business School;INSEAD;2018
+193;Pavel Kireyev;Published;MktS;2017
+194;Jean Claude Larreche;Promotion;1. Graduated;1974
+195;Jean Claude Larreche;Joined European Business School;INSEAD;1974
+196;Jean Claude Larreche;Promotion;2. Assistant Prof;1974
+197;Jean Claude Larreche;Promotion;3. Associate Prof;1977
+198;Jean Claude Larreche;Promotion;4. Prof;1982
+199;Jean Claude Larreche;Promotion;5. Chaired Professor;1993
+200;Jean Claude Larreche;Promotion;5. Emeritus Prof.;
+201;Jean Claude Larreche;Published;JMR;1983
+202;Jean Claude Larreche;Published;MgmtS;1982
+203;Jean Claude Larreche;Published;Jmkting;1981
+204;Jean Claude Larreche;Published;MgmtS;1977
+205;Jean Claude Larreche;Published;JMR;1977
+206;David Midgley;Promotion;1. Graduated;1974
+207;David Midgley;Promotion;1.5 Lecturer;1975
+208;David Midgley;Promotion;1.5 Senior Lecturer;1979
+209;David Midgley;Promotion;3. Associate Prof;1983
+210;David Midgley;Promotion;4. Prof;1999
+211;David Midgley;Joined European Business School;INSEAD;1999
+212;David Midgley;Published;MktS;1988
+213;David Midgley;Published;JCR;1984
+214;David Midgley;Published;Jmkting;1983
+215;David Midgley;Published;JCR;1978
+216;Vijay Padmanabhan;Promotion;1. Graduated;1990
+217;Vijay Padmanabhan;Promotion;2. Assistant Prof;1990
+218;Vijay Padmanabhan;Promotion;3. Associate Prof;
+219;Vijay Padmanabhan;Promotion;4. Prof;1998
+220;Vijay Padmanabhan;Joined European Business School;INSEAD;1996
+221;Vijay Padmanabhan;Promotion;5. Chaired Professor;2002
+222;Vijay Padmanabhan;Published;MktS;2008
+223;Vijay Padmanabhan;Published;JMR;2007
+224;Vijay Padmanabhan;Published;MKtS;2006
+225;Vijay Padmanabhan;Published;MgmtS;2004
+226;Vijay Padmanabhan;Published;MktS;2004
+227;Vijay Padmanabhan;Published;MktS;2002
+228;Vijay Padmanabhan;Published;JMR;2002
+229;Vijay Padmanabhan;Published;MKtS;1999
+230;Vijay Padmanabhan;Published;JMR;1997
+231;Vijay Padmanabhan;Published;MKtS;1997
+232;Vijay Padmanabhan;Published;MgmtS;1997
+233;Vijay Padmanabhan;Published;MktS;1997
+234;Vijay Padmanabhan;Published;MktS;1997
+235;Vijay Padmanabhan;Published;MktS;1995
+236;Vijay Padmanabhan;Published;MktS;1993
+237;Philip M. Parker;Promotion;1. Graduated;1988
+238;Philip M. Parker;Joined European Business School;INSEAD;1988
+239;Philip M. Parker;Promotion;2. Assistant Prof;1988
+240;Philip M. Parker;Promotion;3. Associate Prof;
+241;Philip M. Parker;Promotion;4. Prof;
+242;Philip M. Parker;Promotion;5. Chaired Professor;
+243;Philip M. Parker;Published;JMR;2000
+244;Philip M. Parker;Published;MktS;1997
+245;Philip M. Parker;Published;JMR;1995
+246;Philip M. Parker;Published;Jmkting;1994
+247;Philip M. Parker;Published;JMR;1992
+248;Philip M. Parker;Published;;
+249;Hilke Plassmann;Promotion;1. Graduated;2005
+250;Hilke Plassmann;Promotion;Post Doc;2008
+251;Hilke Plassmann;Joined European Business School;INSEAD;2008
+252;Hilke Plassmann;Promotion;2. Assistant Prof;2008
+253;Hilke Plassmann;Promotion;3. Associate Prof;2015
+254;Hilke Plassmann;Published;JMR;2015
+255;Daniel Walkters;Promotion;1. Graduated;2017
+256;Daniel Walkters;Joined European Business School;INSEAD;2017
+257;Daniel Walkters;Promotion;2. Assistant Prof;2017
+258;Daniel Walkters;Published;MgmtS;2017
+259;Daniel Walkters;Published;MgmtS;2017
+260;David Weinstein;Promotion;1. Graduated;1972
+261;David Weinstein;Joined European Business School;INSEAD;1972
+262;David Weinstein;Promotion;2. Assistant Prof;1972
+263;David Weinstein;Promotion;3. Associate Prof;1977
+264;David Weinstein;Promotion;4. Prof;1998
+265;David Weinstein;Promotion;5. Emeritus Prof.;
+266;David Weinstein;Published;Jmkting;1980
+267;David Weinstein;Published;MgmtS;1982
+268;David Weinstein;Published;Jmkting;1983
+269;Klaus Wertenbroch;Promotion;1. Graduated;1994
+270;Klaus Wertenbroch;Promotion;2. Assistant Prof;1994
+271;Klaus Wertenbroch;Joined European Business School;INSEAD;1999
+272;Klaus Wertenbroch;Promotion;3. Associate Prof;2001
+273;Klaus Wertenbroch;Promotion;4. Prof;2007
+274;Klaus Wertenbroch;Published;JMR;2012
+275;Klaus Wertenbroch;Published;JCR;2007
+276;Klaus Wertenbroch;Published;JCR;2006
+277;Klaus Wertenbroch;Published;JMR;2005
+278;Klaus Wertenbroch;Published;JCR;2003
+279;Klaus Wertenbroch;Published;JMR;2002
+280;Klaus Wertenbroch;Published;JMR;2000
+281;Klaus Wertenbroch;Published;MktS;1998
+282;Marco Bertini;Promotion;1. Graduated;2006
+283;Marco Bertini;Promotion;2. Assistant Prof;2006
+284;Marco Bertini;Joined European Business School;London Business School;2006
+285;Marco Bertini;Joined European Business School;ESADE;2014
+286;Marco Bertini;Promotion;3. Associate Prof;2014
+287;Marco Bertini;Published;MktS;2007
+288;Marco Bertini;Published;MktS;2007
+289;Marco Bertini;Published;MktS;2008
+290;Marco Bertini;Published;JCR;2009
+291;Marco Bertini;Published;Jmkting;2014
+292;Marco Bertini;Published;JMR;2015
+293;Monica Casabayo;Promotion;1. Graduated;2000
+294;Monica Casabayo;Joined European Business School;ESADE;2000
+295;Monica Casabayo;Promotion;3. Associate Prof;2000
+296;Ivana Casaburi;Promotion;1. Graduated;1998
+297;Ivana Casaburi;Joined European Business School;ESADE;1994
+298;Ivana Casaburi;Promotion;3. Associate Prof;
+299;Gerard Costa Guix;Promotion;1. Graduated;2004
+300;Gerard Costa Guix;Joined European Business School;ESADE;2001
+301;Gerard Costa Guix;Promotion;2. Assistant Prof;2001
+302;Gerard Costa Guix;Promotion;3. Associate Prof;2007
+303;Andres Cuneo Zuniga;Promotion;1. Graduated;2008
+304;Andres Cuneo Zuniga;Joined European Business School;ESADE;
+305;Andres Cuneo Zuniga;Promotion;3. Associate Prof;
+306;Bart De Langhe;Promotion;1. Graduated;2011
+307;Bart De Langhe;Promotion;2. Assistant Prof;2011
+308;Bart De Langhe;Joined European Business School;ESADE;2017
+309;Bart De Langhe;Promotion;3. Associate Prof;2017
+310;Bart De Langhe;Published;JCR;2009
+311;Bart De Langhe;Published;JMR;2011
+312;Bart De Langhe;Published;JCR;2014
+313;Bart De Langhe;Published;MgmtS;2015
+314;Bart De Langhe;Published;JCR;2016
+315;Bart De Langhe;Published;JCR;2016
+316;Bart De Langhe;Published;JMR;2016
+317;Bart De Langhe;Published;JMR;2018
+318;Josep Franch Bullich;Promotion;1. Graduated;2005
+319;Josep Franch Bullich;Joined European Business School;ESADE;1988
+320;Josep Franch Bullich;Promotion;2. Assistant Prof;
+321;Josep Franch Bullich;Promotion;2. Assistant Prof;
+322;Maria Galli;Promotion;1. Graduated;2004
+323;Maria Galli;Promotion;2. Assistant Prof;2016
+324;Maria Galli;Joined European Business School;ESADE;2016
+325;Maria Galli;Published;JCR;2015
+326;Carlo Gallucci Calabrese;Promotion;1. Graduated;1981
+327;Carlo Gallucci Calabrese;Joined European Business School;ESADE;1986
+328;Carlo Gallucci Calabrese;Promotion;4. Prof;1997
+329;Oriol Iglesias;Promotion;1. Graduated;2007
+330;Oriol Iglesias;Joined European Business School;ESADE;2007
+331;Oriol Iglesias;Promotion;2. Assistant Prof;2007
+332;Oriol Iglesias;Promotion;3. Associate Prof;2013
+333;Lluis Martine Ribes;Joined European Business School;ESADE;1984
+334;Lluis Martine Ribes;Promotion;3. Associate Prof;1984
+335;Jordi Molina Capella;Joined European Business School;ESADE;1992
+336;Jordi Molina Capella;Promotion;3. Associate Prof;1992
+337;Isa Moll de Alba Mendoza;Promotion;1. Graduated;2006
+338;Isa Moll de Alba Mendoza;Joined European Business School;ESADE;2006
+339;Isa Moll de Alba Mendoza;Promotion;1.5 Lecturer;2006
+340;Jordi Montana Matosas;Promotion;1. Graduated;1976
+341;Jordi Montana Matosas;Joined European Business School;ESADE;1976
+342;Jordi Montana Matosas;Promotion;4. Prof;
+343;Carles Torrecilla Gumbau;Promotion;1. Graduated;
+344;Carles Torrecilla Gumbau;Joined European Business School;ESADE;
+345;Carles Torrecilla Gumbau;Promotion;3. Associate Prof;
+346;Patrick Barwise;Promotion;1. Graduated;1985
+347;Patrick Barwise;Joined European Business School;London Business School;1982
+348;Patrick Barwise;Promotion;2. Assistant Prof;1982
+349;Patrick Barwise;Promotion;3. Associate Prof;1987
+350;Patrick Barwise;Promotion;4. Prof;1990
+351;Patrick Barwise;Promotion;5. Emeritus Prof.;2007
+352;Patrick Barwise;Published;Jmkting;1990
+353;Patrick Barwise;Published;MktS;1995
+354;Stefan Stremerch;Promotion;1. Graduated;2001
+355;Stefan Stremerch;Promotion;2. Assistant Prof;2001
+356;Stefan Stremerch;Promotion;5. Chaired Professor;2004
+357;Stefan Stremerch;Joined European Business School;IESE;2010
+358;Stefan Stremerch;Published;Jmkting;2002
+359;Stefan Stremerch;Published;MktS;2003
+360;Stefan Stremerch;Published;JMR;2003
+361;Stefan Stremerch;Published;Jmkting;2004
+362;Stefan Stremerch;Published;MktS;2004
+363;Stefan Stremerch;Published;JMR;2004
+364;Stefan Stremerch;Published;JMR;2005
+365;Stefan Stremerch;Published;MktS;2005
+366;Stefan Stremerch;Published;JMR;2006
+367;Stefan Stremerch;Published;Jmkting;2007
+368;Stefan Stremerch;Published;Jmkting;2007
+369;Stefan Stremerch;Published;MgmtS;2007
+370;Stefan Stremerch;Published;Jmkting;2009
+371;Stefan Stremerch;Published;JMR;2009
+372;Stefan Stremerch;Published;Jmkting;2009
+373;Stefan Stremerch;Published;MktS;2010
+374;Stefan Stremerch;Published;MktS;2011
+375;Stefan Stremerch;Published;Jmkting;2011
+376;Stefan Stremerch;Published;MktS;2013
+377;Stefan Stremerch;Published;MktS;2016
+378;Stefan Stremerch;Published;Jmkting;2017
+379;Jonathan Berman;Promotion;1. Graduated;2014
+380;Jonathan Berman;Joined European Business School;London Business School;2014
+381;Jonathan Berman;Promotion;2. Assistant Prof;2014
+382;Jonathan Berman;Promotion;3. Associate Prof;2018
+383;Jonathan Berman;Published;JMR;2015
+384;Jonathan Berman;Published;JMR;2016
+385;Stephanie Chen;Promotion;1. Graduated;2014
+386;Stephanie Chen;Joined European Business School;London Business School;2017
+387;Stephanie Chen;Promotion;2. Assistant Prof;2017
+388;David Faro;Promotion;1. Graduated;2006
+389;David Faro;Joined European Business School;London Business School;2006
+390;David Faro;Promotion;2. Assistant Prof;2006
+391;David Faro;Promotion;3. Associate Prof;2013
+392;David Faro;Published;MgmtS;2006
+393;David Faro;Published;JCR;2010
+394;David Faro;Published;JCR;2013
+395;David Faro;Published;MgmtS;2013
+396;David Faro;Published;JCR;2013
+397;David Faro;Published;JCR;2014
+398;David Faro;Published;JCR;2018
+399;Bruce Hardie;Promotion;1. Graduated;1994
+400;Bruce Hardie;Joined European Business School;London Business School;1994
+401;Bruce Hardie;Promotion;2. Assistant Prof;1994
+402;Bruce Hardie;Promotion;3. Associate Prof;2003
+403;Bruce Hardie;Promotion;4. Prof;2008
+404;Bruce Hardie;Published;MktS;1993
+405;Bruce Hardie;Published;MKtS;2004
+406;Bruce Hardie;Published;MKtS;2005
+407;Bruce Hardie;Published;JMR;2005
+408;Bruce Hardie;Published;MktS;2010
+409;Bruce Hardie;Published;MktS;2010
+410;Bruce Hardie;Published;MktS;2011
+411;Bruce Hardie;Published;MktS;2012
+412;Bruce Hardie;Published;MktS;2013
+413;Oded Koenigsberg;Promotion;1. Graduated;2002
+414;Oded Koenigsberg;Promotion;2. Assistant Prof;2002
+415;Oded Koenigsberg;Promotion;3. Associate Prof;2007
+416;Oded Koenigsberg;Joined European Business School;London Business School;2012
+417;Oded Koenigsberg;Promotion;4. Prof;2018
+418;Oded Koenigsberg;Published;MgmtS;2007
+419;Oded Koenigsberg;Published;JMR;2010
+420;Oded Koenigsberg;Published;MgmtS;2010
+421;Oded Koenigsberg;Published;MktS;2011
+422;Oded Koenigsberg;Published;JMR;2011
+423;Oded Koenigsberg;Published;MktS;2013
+424;Oded Koenigsberg;Published;Prod&OperMgmt;2014
+425;Oded Koenigsberg;Published;MktS;2017
+426;Anja Lambrecht;Promotion;1. Graduated;2004
+427;Anja Lambrecht;Promotion;1.5 Visting Assistant Prof.;2005
+428;Anja Lambrecht;Joined European Business School;London Business School;2007
+429;Anja Lambrecht;Promotion;2. Assistant Prof;2007
+430;Anja Lambrecht;Promotion;3. Associate Prof;2016
+431;Anja Lambrecht;Published;JMR;2006
+432;Anja Lambrecht;Published;MktS;2007
+433;Anja Lambrecht;Published;MktS;2011
+434;Anja Lambrecht;Published;JMR;2012
+435;Anja Lambrecht;Published;JMR;2012
+436;Anja Lambrecht;Published;JMR;2013
+437;Anja Lambrecht;Published;Jmkting;2014
+438;Anja Lambrecht;Published;MgmtS;2017
+439;Anja Lambrecht;Published;MktS;2018
+440;John Mullins;Promotion;1. Graduated;1992
+441;John Mullins;Promotion;3. Associate Prof;1992
+442;John Mullins;Joined European Business School;London Business School;2001
+443;Ken Simmonds;Promotion;1. Graduated;
+444;Ken Simmonds;Promotion;2. Assistant Prof;
+445;Ken Simmonds;Promotion;3. Associate Prof;
+446;Ken Simmonds;Promotion;4. Prof;
+447;Ken Simmonds;Promotion;5. Emeritus Prof.;
+448;Nader Tavassoli;Promotion;1. Graduated;1994
+449;Nader Tavassoli;Promotion;2. Assistant Prof;1994
+450;Nader Tavassoli;Promotion;3. Associate Prof;2000
+451;Nader Tavassoli;Promotion;London Business School;2002
+452;Nader Tavassoli;Promotion;4. Prof;2006
+453;Nader Tavassoli;Promotion;5. Chaired Professor;2006
+454;Nader Tavassoli;Published;JCR;1993
+455;Nader Tavassoli;Published;JCR;1994
+456;Nader Tavassoli;Published;JCR;1998
+457;Nader Tavassoli;Published;JCR;1999
+458;Nader Tavassoli;Published;JCR;2001
+459;Nader Tavassoli;Published;JMR;2003
+460;Nader Tavassoli;Published;JCR;2006
+461;Nader Tavassoli;Published;JMR;2007
+462;Nader Tavassoli;Published;JMR;2011
+463;Nader Tavassoli;Published;JCR;2013
+464;Nader Tavassoli;Published;JMR;2014
+465;Roberet Waiser;Promotion;1. Graduated;2016
+466;Roberet Waiser;Joined European Business School;London Business School;2016
+467;Roberet Waiser;Promotion;2. Assistant Prof;2016
+468;Xu Zhang;Promotion;1. Graduated;2018
+469;Xu Zhang;Joined European Business School;London Business School;2018
+470;Xu Zhang;Promotion;2. Assistant Prof;2018
+471;Julian Villanueva;Promotion;1. Graduated;2003
+472;Julian Villanueva;Joined European Business School;IESE;2003
+473;Julian Villanueva;Promotion;2. Assistant Prof;2003
+474;Julian Villanueva;Promotion;3. Associate Prof;2008
+475;Julian Villanueva;Promotion;4. Prof;2013
+476;Julian Villanueva;Published;JMR;2008
+477;Julian Villanueva;Published;Jmkting;2006
+478;Isabelle Engeler;Promotion;1. Graduated;2012
+479;Isabelle Engeler;Joined European Business School;IESE;2016
+480;Isabelle Engeler;Promotion;2. Assistant Prof;2016
+481;Inigo Gallo;Promotion;1. Graduated;2013
+482;Inigo Gallo;Joined European Business School;IESE;2013
+483;Inigo Gallo;Promotion;2. Assistant Prof;2013
+484;Carlos Garcia Pont;Promotion;1. Graduated;1992
+485;Carlos Garcia Pont;Joined European Business School;IESE;1992
+486;Carlos Garcia Pont;Promotion;2. Assistant Prof;1992
+487;Carlos Garcia Pont;Promotion;3. Associate Prof;
+488;Carlos Garcia Pont;Promotion;4. Prof;
+489;Carlos Garcia Pont;Published;StrategicMgmtJ;2009
+490;Jorge Gonzalez;Promotion;1. Graduated;2006
+491;Jorge Gonzalez;Joined European Business School;IESE;2006
+492;Jorge Gonzalez;Promotion;2. Assistant Prof;2006
+493;Jorge Gonzalez;Promotion;3. Associate Prof;
+494;Francisco Iniesta;Promotion;1. Graduated;1997
+495;Francisco Iniesta;Joined European Business School;IESE;1997
+496;Francisco Iniesta;Promotion;2. Assistant Prof;
+497;Francisco Iniesta;Promotion;3. Associate Prof;
+498;Francisco Iniesta;Promotion;4. Prof;
+499;Jose Luis Nueno;Promotion;1. Graduated;1991
+500;Jose Luis Nueno;Joined European Business School;IESE;1991
+501;Jose Luis Nueno;Promotion;2. Assistant Prof;1991
+502;Jose Luis Nueno;Promotion;3. Associate Prof;
+503;Jose Luis Nueno;Promotion;4. Prof;
+504;Elena Reutskaja;Promotion;1. Graduated;2008
+505;Elena Reutskaja;Joined European Business School;IESE;2008
+506;Elena Reutskaja;Promotion;2. Assistant Prof;2008
+507;Elena Reutskaja;Promotion;3. Associate Prof;2014
+508;Albert Valenti;Promotion;1. Graduated;2018
+509;Albert Valenti;Joined European Business School;IESE;2018
+510;Albert Valenti;Promotion;2. Assistant Prof;2018
+511;Jose Antonio Segarra;Promotion;1. Graduated;1996
+512;Jose Antonio Segarra;Joined European Business School;IESE;1996
+513;Jose Antonio Segarra;Promotion;2. Assistant Prof;1996
+514;Jose Antonio Segarra;Promotion;3. Associate Prof;
+515;Jose Antonio Segarra;Promotion;4. Prof;
+516;Ahmed Khajwa;Promotion;1. Graduated;1998
+517;Ahmed Khajwa;Promotion;2. Assistant Prof;1998
+518;Ahmed Khajwa;Joined European Business School;Cambridge;2003
+519;Ahmed Khajwa;Promotion;3. Associate Prof;2003
+520;Ahmed Khajwa;Published;MktS;2015
+521;Ahmed Khajwa;Published;MgmtS;2018
+522;Jaideeb Prabhu;Promotion;1. Graduated;1995
+523;Jaideeb Prabhu;Promotion;2. Assistant Prof;1996
+524;Jaideeb Prabhu;Joined European Business School;Cambridge;1999
+525;Jaideeb Prabhu;Promotion;3. Associate Prof;1999
+526;Jaideeb Prabhu;Promotion;4. Prof;2002
+527;Jaideeb Prabhu;Published;Jmkting;2015
+528;Jaideeb Prabhu;Published;Jmkting;2011
+529;Jaideeb Prabhu;Published;Jmkting;2011
+530;Jaideeb Prabhu;Published;Jmkting;2008
+531;Jaideeb Prabhu;Published;Jmkting;2007
+532;Jaideeb Prabhu;Published;JMR;2007
+533;Jaideeb Prabhu;Published;JMR;2006
+534;Jaideeb Prabhu;Published;Jmkting;2005
+535;Jaideeb Prabhu;Published;Jmkting;2003
+536;Jaideeb Prabhu;Published;Jmkting;2003
+537;Jaideeb Prabhu;Published;Jmkting;2001
+538;Wah Sung Vincent Mak;Promotion;1. Graduated;2008
+539;Wah Sung Vincent Mak;Promotion;1.5 Visting Assistant Prof.;2008
+540;Wah Sung Vincent Mak;Joined European Business School;Cambridge;2009
+541;Wah Sung Vincent Mak;Promotion;2. Assistant Prof;2009
+542;Wah Sung Vincent Mak;Promotion;3. Associate Prof;2016
+543;Wah Sung Vincent Mak;Published;Prod&OperMgmt;2014
+544;Wah Sung Vincent Mak;Published;Mft&SvsOperMgmt;2014
+545;Wah Sung Vincent Mak;Published;Org.Bhvr&HumDecPcs;2015
+546;Wah Sung Vincent Mak;Published;Prod&OperMgmt;2015
+547;Wah Sung Vincent Mak;Published;MgmtS;2015
+548;Wah Sung Vincent Mak;Published;JOperMgmt;2015
+549;Wah Sung Vincent Mak;Published;Prod&OperMgmt;2018
+550;Wah Sung Vincent Mak;Published;MgmtS;2018
+551;Eden Yin;Promotion;1. Graduated;1999
+552;Eden Yin;Joined European Business School;Cambridge;1999
+553;Eden Yin;Promotion;2. Assistant Prof;1999
+554;Eden Yin;Promotion;3. Associate Prof;2003
+555;Eden Yin;Published;MktS;2003
+556;Eden Yin;Published;JMR;2009
+557;Eden Yin;Published;JMR;2009
+558;Rajesh Bhargave;Promotion;1. Graduated;2009
+559;Rajesh Bhargave;Promotion;2. Assistant Prof;2009
+560;Rajesh Bhargave;Joined European Business School;Imperial;2016
+561;Rajesh Bhargave;Published;JCR;2013
+562;Rajesh Bhargave;Published;Org.Bhvr&HumDecPcs;2015
+563;Rajesh Bhargave;Published;JMR;2016
+564;Rajesh Bhargave;Published;JPSocialPsy;2018
+565;Gokhan Yildirim;Promotion;1. Graduated;2012
+566;Gokhan Yildirim;Promotion;2. Assistant Prof;2012
+567;Gokhan Yildirim;Joined European Business School;Imperial;2016
+568;Gokhan Yildirim;Published;MktS;2014
+569;Gokhan Yildirim;Published;MktS;2017
+570;Gokhan Yildirim;Published;Jmkting;2018
+571;Sven Mikolon;Promotion;1. Graduated;2007
+572;Sven Mikolon;Joined European Business School;Imperial;2008
+573;Sven Mikolon;Promotion;2. Assistant Prof;2008
+574;Sven Mikolon;Published;Jmkting;2012
+575;Catarina Sismeiro;Promotion;1. Graduated;2002
+576;Catarina Sismeiro;Promotion;2. Assistant Prof;2002
+577;Catarina Sismeiro;Joined European Business School;Imperial;2004
+578;Catarina Sismeiro;Promotion;3. Associate Prof;2009
+579;Catarina Sismeiro;Published;JMR;2002
+580;Catarina Sismeiro;Published;JMR;2003
+581;Catarina Sismeiro;Published;JMR;2004
+582;Catarina Sismeiro;Published;MgmtS;2008
+583;Catarina Sismeiro;Published;JMR;2009
+584;Andreas Eisingerich;Promotion;1. Graduated;2006
+585;Andreas Eisingerich;Promotion;2. Assistant Prof;2006
+586;Andreas Eisingerich;Joined European Business School;Imperial;2007
+587;Andreas Eisingerich;Promotion;3. Associate Prof;
+588;Andreas Eisingerich;Promotion;4. Prof;
+589;Andreas Eisingerich;Published;Jmkting;2010
+590;Andreas Eisingerich;Published;JOperMgmt;2015
+591;Omer Merlo;Promotion;1. Graduated;2005
+592;Omer Merlo;Promotion;2. Assistant Prof;2005
+593;Omer Merlo;Joined European Business School;Imperial;2010
+594;George Yip;Promotion;1. Graduated;1980
+595;George Yip;Promotion;2. Assistant Prof;1980
+596;George Yip;Promotion;3. Associate Prof;1988
+597;George Yip;Joined European Business School;Imperial;2011
+598;George Yip;Promotion;4. Prof;2011
+599;Simona Botti;Published;JPSocialPsy;2004
+600;Simona Botti;Published;JPP&Mkting;2006
+601;Simona Botti;Published;Org.Bhvr&HumDecPcs;2010
+602;Simona Botti;Published;JESPsy;2011
+603;Simona Botti;Published;PsySci;2011
+604;David Faro;Published;Org.Bhvr&HumDecPcs;2010
+605;David Faro;Published;JPSocialPsy;2010
+606;David Faro;Published;PsySci;2005
+607;David Faro;Published;PsySci;2018
+608;David Faro;Published;PsySci;2016
+609;David Faro;Published;JPSocialPsy;2014
+610;David Faro;Published;PsySci;2012
+611;Shashja Lu;Promotion;1. Graduated;2015
+612;Shashja Lu;Promotion;2. Assistant Prof;2015
+613;Shashja Lu;Joined European Business School;Cambridge;2015
+614;Shashja Lu;Published;MktS;2016
+615;Dominique Lauga;Promotion;1. Graduated;1998
+616;Dominique Lauga;Promotion;2. Assistant Prof;1998
+617;Dominique Lauga;Joined European Business School;Cambridge;2015
+618;Dominique Lauga;Published;MktS;2009
+619;Dominique Lauga;Promotion;3. Associate Prof;2010
+620;Dominique Lauga;Published;MktS;2011
+621;Dominique Lauga;Published;JMR;2014
+621;Julian Villanueva;Promotion;5. Chaired Professor;2016
