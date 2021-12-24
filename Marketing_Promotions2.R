@@ -1,3 +1,8 @@
+## Code takes scraped data from URL and transforms/wrangles the data to make it analysis friends. 
+## Following the data transformation/wrangling, some basic exploratory graphsare created for eye-ball analysis 
+
+
+
 library(readr)
 m <- read_delim("/Users/Home/Desktop/IESE/Stefan/MP_5_11.csv", 
                  ";", escape_double = FALSE, trim_ws = TRUE)
